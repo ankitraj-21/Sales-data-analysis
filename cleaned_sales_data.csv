@@ -1,0 +1,11 @@
+Order ID,Date,Product,Category,Quantity,Sales,Profit,Region,Month
+CA-1001,2023-01-05,Printer,Office Supplies,2,250.0,40.0,West,1
+CA-1002,2023-01-06,Tablet,Technology,1,350.0,60.0,East,1
+CA-1003,2023-01-15,Chair,Furniture,4,800.0,120.0,South,1
+CA-1004,2023-02-02,Laptop,Technology,1,950.0,150.0,West,2
+CA-1005,2023-02-20,Desk,Furniture,1,300.0,50.0,North,2
+CA-1006,2023-03-10,Pen,Office Supplies,10,25.0,5.0,East,3
+CA-1007,2023-03-15,Monitor,Technology,2,400.0,70.0,South,3
+CA-1008,2023-04-05,Printer,Office Supplies,1,125.0,20.0,North,4
+CA-1009,2023-04-20,Phone,Technology,3,1200.0,220.0,West,4
+CA-1010,2023-05-01,Chair,Furniture,2,400.0,60.0,East,5
